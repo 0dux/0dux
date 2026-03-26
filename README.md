@@ -94,8 +94,8 @@
 <br/>
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="150" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0dux&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0dux&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
