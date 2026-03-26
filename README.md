@@ -101,3 +101,15 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=0dux&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
+
+<br/>
+<h3 align="center">Socials</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dakshyadav0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <img width="12" />
+  <a href="https://x.com/DXKSH_X">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" height="35" alt="X" />
+  </a>
+</div>
