@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/0dux/0dux/blob/main/header.png?raw=true" />
+  <img width="100%" src="https://github.com/0dux/0dux/blob/main/header.jpeg?raw=true" />
 </div>
 
 <h1 align="left">Hi, I'm Daksh Yadav 👋</h1>
