@@ -94,8 +94,8 @@
 <br/>
 
 <div align="center">
-  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" height="165" />
-  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" height="165" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" height="165" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
